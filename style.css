@@ -1,0 +1,104 @@
+.menu{
+    width: 2000px;
+    height: 82px;
+    position: fixed;
+    left: 0px;
+    bottom: 886px;
+    background:#00487C;
+}
+body{
+    background: #027BCE;
+}
+.main{
+    width: 1980px;
+    height: 1024px;
+    position: absolute;
+    left: 0px;
+    bottom: -100px;
+    background: #DCE1E9;
+}
+p{
+    font-size: 35px; /* Размер шрифта в процентах */ 
+    word-wrap: break-word; /* Перенос слов */ 
+    position: absolute;
+    width: 990px;
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+
+    left: 390px;
+    bottom: 705px;
+}
+img{
+    position: fixed;
+    left: 0px;
+    bottom: 908px;
+    background:#39AEA9;
+}
+.VPN {
+    position: fixed;
+    left: 1270px;
+    bottom: 920px;
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 28px; /* Размер шрифта в процентах */ 
+    color: black;
+    text-decoration: none;
+    
+}
+.help {
+    position: fixed;
+    left: 1680px;
+    bottom: 910px;
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 28px; /* Размер шрифта в процентах */ 
+    color: #D4F5F5;
+    display: inline-block;  
+    text-decoration: none;
+	font-weight: bold;
+	
+}
+
+.prog {
+    position: fixed;
+    left: 1470px;
+    bottom: 910px;
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 28px; /* Размер шрифта в процентах */ 
+    color: #D4F5F5;
+    display: inline-block;   
+    text-decoration: none;
+	font-weight: bold;	
+}
+.panelxos{
+	position: fixed;
+    left: 270px;
+    bottom: 510px;
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 28px; /* Размер шрифта в процентах */ 
+    color: black;
+    display: inline-block;   
+    text-decoration: none;
+	font-weight: bold;	
+}
+img{
+	position: fixed;
+    left: 270px;
+    bottom: 540px;
+}
+p { 
+    bottom: 320px;
+	left: 260px;
+    width: 230px; /* Ширина блока */
+    padding: 10px; /* Поля */
+    font-size: 22px; /* Размер шрифта */
+	color: black;
+   }
+.home {
+    position: fixed;
+    left: 1270px;
+    bottom: 910px;
+    font-family: 'Times New Roman', Times, serif; /* Гарнитура текста */ 
+    font-size: 28px; /* Размер шрифта в процентах */ 
+    color: #D4F5F5;
+    display: inline-block;   
+    text-decoration: none;
+	font-weight: bold;	
+}
